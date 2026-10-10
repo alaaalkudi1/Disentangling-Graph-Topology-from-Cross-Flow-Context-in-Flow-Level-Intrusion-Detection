@@ -1,0 +1,32 @@
+{
+ "title": "Disentangling Graph Topology from Cross-Flow Context in Flow-Level Intrusion Detection: code, per-run records and derived data",
+ "upload_type": "dataset",
+ "description": "Code, per-run result records and derived data for the article \"Disentangling Graph Topology from Cross-Flow Context in Flow-Level Intrusion Detection\". Contains every script that produced a reported number, one JSON record per training run, the generated tables and figures, dataset provenance and checksums, and the pre-registered prediction for the untouched holdout, recorded before any model was trained on it. The three public captures are not redistributed; their checksums and the exact file lists used are included instead.",
+ "creators": [
+  {
+   "name": "Mohammed, Alaa Hamid",
+   "affiliation": "University of Al-Maarif / Karabuk University"
+  },
+  {
+   "name": "Habbal, Adib",
+   "affiliation": "Karabuk University"
+  },
+  {
+   "name": "Aldhaibani, Omar A.",
+   "affiliation": "Liverpool John Moores University"
+  },
+  {
+   "name": "Khalaf, Mohammed I.",
+   "affiliation": "University of Al-Maarif"
+  }
+ ],
+ "license": "mit",
+ "access_right": "open",
+ "keywords": [
+  "intrusion detection",
+  "graph neural networks",
+  "network security",
+  "reproducibility",
+  "edge computing"
+ ]
+}

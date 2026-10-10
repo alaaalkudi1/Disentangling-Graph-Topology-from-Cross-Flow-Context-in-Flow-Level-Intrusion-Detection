@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite the article it accompanies."
+title: "Disentangling Graph Topology from Cross-Flow Context in Flow-Level Intrusion Detection: code, per-run records and derived data"
+authors:
+  - family-names: "Mohammed"
+    given-names: "Alaa Hamid"
+    affiliation: "University of Al-Maarif / Karabuk University"
+  - family-names: "Habbal"
+    given-names: "Adib"
+    affiliation: "Karabuk University"
+  - family-names: "Aldhaibani"
+    given-names: "Omar A."
+    affiliation: "Liverpool John Moores University"
+  - family-names: "Khalaf"
+    given-names: "Mohammed I."
+    affiliation: "University of Al-Maarif"
+license: MIT
+version: "1.0.0"
